@@ -1,0 +1,14 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "official.surftheory.todaytide",
+      "sha256_cert_fingerprints": [
+        "59:DE:84:BC:A5:16:92:30:E8:53:5E:D2:45:90:D9:0F:40:94:28:A5:65:49:04:41:73:18:ED:65:6B:37:E0:74"
+      ]
+    }
+  }
+]
